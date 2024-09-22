@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="vendor/autoload.php" colors="true" stopOnFailure="false">
+    <testsuites>
+        <testsuite name="nivel1_01 class NumberChecker">
+            <directory>tema7_nivel1_01</directory>
+        </testsuite>
+        <testsuite name="nivel1_02 class Nota">
+            <directory>tema7_nivel1_02/classes</directory>
+        </testsuite>
+        <testsuite name="nivel2_01 class NumberChecker2">
+            <directory>tema7_nivel2_01</directory>
+        </testsuite>
+        <testsuite name="nivel2_02">
+            <directory>tema7_nivel2_02</directory>
+        </testsuite>
+        <testsuite name="nivel3_01">
+            <directory>tema7_nivel3_01</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
