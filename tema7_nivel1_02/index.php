@@ -17,7 +17,6 @@ Condiciones:
 */
 
 echo "\n\n";
-echo "RUN test.php";
+echo "Abrir el terminal en el directorio sprint1_tema7_debugging y ejecutar : ./vendor/bin/phpunit --testdox";
 echo "\n\n";
-
 ?>

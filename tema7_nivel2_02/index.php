@@ -1,7 +1,8 @@
 <?php
 /*
-Frank Pulido - Tema 7 [Debugging] - Nivel 1 - Ejercicio 2
+Frank Pulido - Tema 7 [Debugging] - Nivel 2 - Ejercicio 2
 
+MISMO EJERCICIO (Nivel 1 Ejercicio 2) usando un @dataprovider
 ENUNCIADO :
 Practica de TDD. Recuerda el ejercicio 5 del nivel de PHP Básico y piensa tests que podrías realizar para probar su correcto funcionamiento.
 Programa y después realiza el programa a testear paso a paso según validas los test previamente creados.
@@ -17,7 +18,7 @@ Condiciones:
 */
 
 echo "\n\n";
-echo "RUN test.php";
+echo "Esta vez usamos un @dataprovider\nAbrir el terminal en el directorio sprint1_tema7_debugging y ejecutar : ./vendor/bin/phpunit --testdox";
 echo "\n\n";
 
 ?>
